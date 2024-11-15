@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+coverage = "==4.5.4"
+func-timeout = "*"
+concurrencytest = "*"
+numpy = "*"
+opencv-python = "*"
+shap = "*"
+keras = "*"
+tensorflow = "*"
+
+[dev-packages]
+
+
