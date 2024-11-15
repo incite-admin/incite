@@ -1,4 +1,4 @@
-# SHAP - based DNN Concolic Testing with Transformer
+# SHAP-based Concolic Testing for Transformers
 
 This project implements concolic testing on a Transformer model, utilizing SHAP values as a priority queue influence matrix to enhance its robustness and performance evaluation.
 

@@ -1,4 +1,4 @@
-# DNN Concolic Testing with Transformer
+# Concolic Testing for Transformers
 
 This project implements concolic testing on a Transformer model to enhance its robustness and performance evaluation.
 

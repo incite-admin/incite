@@ -1,4 +1,4 @@
-# DNN Concolic Testing with CNN
+# Concolic Testing for CNNs
 
 This project implements concolic testing on a convolutional neural network (CNN) using SHAP values to analyze and explore critical decision points in neural networks.
 
